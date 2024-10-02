@@ -76,3 +76,4 @@ This project involves an Arduino-based robot capable of following walls and avoi
 - **Wall following**: The robot will maintain a set distance from the wall as it moves.
 - **Obstacle Avoidance**: Upon detecting an obstacle, the robot will adjust its path to avoid a collision.
 
+Project uses parts of Osyoo Code, please see the website for more information HTTPS ://osoyoo.com/
